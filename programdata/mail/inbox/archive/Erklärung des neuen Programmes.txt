@@ -1,0 +1,18 @@
+The Creator#**#Sehr geehrter Nutzer,
+lesen Sie anbei eine Erklärung unseres neuesten Paketes: BüroMail.
+
+BüroMail ist ein BüroPlugin, was bedeutet, dass es Daten Ihrer Büro-Installation lesen und nutzen kann.
+In diesem Fall handelt es sich dabei um Ihren Nutzernamen.
+Da die BüroLogin-Anmeldemethode über BüroBestätigungscodes absolut sicher ist, ist Ihr Konto sicher und privat.
+
+Mit BüroMail können Sie BüroMails senden und empfangen.
+Um eine Mail zu senden, können Sie einfach die erforderlichen Daten hier eingeben.
+Um eine Mail zu empfangen, müssen Sie zunächst den BackgroundAgent starten, der Ihren Posteingang im Hintergrund prüft.
+Damit Sie diesen nicht vergessen, lässt sich Büro nicht schließen, solange er läuft.
+Sobald der BackgroundAgent eine Mail empfangen hat, wird diese in Ihrem Posteingang im Verzeichnis unread, also ungelesen gespeichert und Sie können die Mail über die Mail öffnen-Funktion öffnen.
+Dann wird die Mail ins archive-Verzeichnis verschoben (Archiv) und Sie können BüroMail entweder schließen oder einen Modus wie Antwort oder Weiterleitung aktivieren, welcher die Mail so konfiguriert, dass Sie direkt mit dem Inhalt Ihrer Mail loslegen können.
+
+Wenden Sie sich bei Fragen gern an uns.
+
+Viele Grüße,
+LK
